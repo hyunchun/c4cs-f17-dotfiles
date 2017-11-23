@@ -1,0 +1,12 @@
+Host caen
+	HostName login.engin.umich.edu
+	User hyunchun
+
+Host github
+	HostName github.com
+	User hyunchun
+
+Host gitlab
+	HostName https://gitlab.eecs.umich.edu/
+	User hyunchun
+
